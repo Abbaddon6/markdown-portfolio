@@ -15,9 +15,9 @@ layout: default
 <br>
 
 {% include 04-lists.md %}
-*1
-*2
-*3
+* 1
+* 2
+* 3
 
 <br>
 
