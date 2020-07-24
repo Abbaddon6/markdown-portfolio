@@ -1,3 +1,3 @@
-* Computer
-* Food
-* Girlfriend
+- Computer
+- Food
+- Girlfriend
